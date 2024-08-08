@@ -1,4 +1,5 @@
 package az.edu.turing.userprofileapp.feign;
 
-public class UserFeignClient {
+public interface UserFeignClient {
+
 }
